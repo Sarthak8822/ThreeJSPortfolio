@@ -4,7 +4,7 @@ import { useReveal } from "@/hooks/useReveal";
 
 const contacts = [
   { icon: "✉", label: "sarthakpravin08@gmail.com", href: "mailto:sarthakpravin08@gmail.com" },
-  { icon: "in", label: "LinkedIn", href: "https://linkedin.com/in/sarthakmodhe" },
+  { icon: "in", label: "LinkedIn", href: "https://linkedin.com/in/sarthak-modhe" },
   { icon: "⌥", label: "GitHub", href: "https://github.com/Sarthak8822" },
   { icon: "☏", label: "+91-7415623383", href: "tel:+917415623383" },
 ];
